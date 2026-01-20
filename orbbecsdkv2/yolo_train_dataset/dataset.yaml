@@ -1,0 +1,6 @@
+names:
+- palette_0
+nc: 1
+path: ..
+train: orbbecsdkv2/yolo_train_dataset/images/train
+val: orbbecsdkv2/yolo_train_dataset/images/val

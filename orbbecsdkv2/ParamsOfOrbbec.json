@@ -1,0 +1,12 @@
+{
+	"color_auto_exposure": 1,
+	"color_auto_white_balance": 1,
+	"color_brightness": 10,
+	"color_contrast": 50,
+	"color_exposure_time": 200,
+	"color_gain": 0,
+	"color_power_line_frequency": 2,
+	"color_saturation": 64,
+	"color_sharpness": 24,
+	"color_white_balance": 6500
+}
